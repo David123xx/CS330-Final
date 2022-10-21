@@ -1,0 +1,12 @@
+﻿  Source.cpp
+C:\Users\djrob\Desktop\CS330\Milestone 5\OpenGLSample\Source.cpp(348,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\djrob\Desktop\CS330\Milestone 5\OpenGLSample\Source.cpp(459,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\djrob\Desktop\CS330\Milestone 5\OpenGLSample\Source.cpp(460,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\djrob\Desktop\CS330\Milestone 5\OpenGLSample\Source.cpp(464,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\djrob\Desktop\CS330\Milestone 5\OpenGLSample\Source.cpp(465,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\djrob\Desktop\CS330\Milestone 5\OpenGLSample\Source.cpp(467,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\djrob\Desktop\CS330\Milestone 5\OpenGLSample\Source.cpp(468,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\djrob\Desktop\CS330\Milestone 5\OpenGLSample\Source.cpp(475,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\djrob\Desktop\CS330\Milestone 5\OpenGLSample\Source.cpp(919,22): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\djrob\Desktop\CS330\Milestone 5\OpenGLSample\Source.cpp(1102,22): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  OpenGLSample.vcxproj -> C:\Users\djrob\Desktop\CS330\Milestone 5\Debug\OpenGLSample.exe
